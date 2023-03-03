@@ -1,11 +1,11 @@
 {
     const tasks = [
         {
-            content: "nagrać lekcję",
+            content: "przeczytać książkę",
             done: false,
         },
         {
-            content: "zjeść piergoi",
+            content: "podlać kwiatki",
             done: true,
         },
     ];
